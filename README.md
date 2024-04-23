@@ -19,6 +19,7 @@
 
 ## 🛠️ Tools
 ![Maven](https://img.shields.io/badge/Maven-%234ea94b.svg?style=for-the-badge&logo=apachemaven&logoColor=white "Apache Maven")
+![Spring](https://img.shields.io/badge/Spring-%234ea94b.svg?style=for-the-badge&logo=Spring&logoColor=white "Spring")
 ![Docker](https://img.shields.io/badge/Docker-384d54?style=for-the-badge&logo=docker&logoColor=#0db7ed "Docker")
 ![Intellij IDEA](https://img.shields.io/badge/Intellij_IDEA-000.svg?style=for-the-badge&logo=intellijidea&logoColor=white "Intellij IDEA")
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white "GIT") 
@@ -29,6 +30,5 @@
 ![SQL](https://img.shields.io/badge/SQL-00758f.svg?style=for-the-badge&logo=MySQL&logoColor=white "SQL")
 ![Node.js](https://img.shields.io/badge/Node.js-68a063.svg?style=for-the-badge&logo=node.js&logoColor=white "Node.js")
 ![Next.js](https://img.shields.io/badge/Next.js-000.svg?style=for-the-badge&logo=next.js&logoColor=white "Next.js")
-![Spring](https://img.shields.io/badge/Spring-%234ea94b.svg?style=for-the-badge&logo=Spring&logoColor=white "Spring")
 ![PyTorch](https://img.shields.io/badge/PyTorch-DE3412.svg?style=for-the-badge&logo=PyTorch&logoColor=white "PyTorch")
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FFA800.svg?style=for-the-badge&logo=TensorFlow&logoColor=white "TensorFlow")
