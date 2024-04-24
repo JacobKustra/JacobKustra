@@ -5,7 +5,7 @@
 
 - 👩🏻‍🎓 Actively pursuing Master's in Software Development at the Boston University.
 - 👩🏻‍💻 I’m currently working on [BU Buddy](https://github.com/ed239/BUBuddy)
-- 🎨 Actively capturing the moment with my Fujifilm X100VI camera.
+- 📷 Actively capturing the moment with my Fujifilm X100VI camera.
 
 ## 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white "Java")
